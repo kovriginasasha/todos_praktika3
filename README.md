@@ -1,2 +1,2 @@
-# Networ-technology
-Репозиторий для предмета Сетевые технологии
+# todos_praktika3
+todos for PR3
