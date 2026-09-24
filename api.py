@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get("/")
 async def welcome() -> dict:
-    return {"message": "Александра Ковригина"}
+    return {"message": "Александра Ковригина!"}
